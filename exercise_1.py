@@ -1,1 +1,1 @@
-print ("Mam na imie Pawelg")
+print ("Mam na imie Pawelgggggg")
